@@ -1,4 +1,4 @@
-{
+[{
   "ReportCategory": 0,
   "Duration": 0,
   "GameSessionId": 0,
@@ -15,4 +15,4 @@
   "ShowCreatorCodeOfConduct": false,
   "TopMessageOverride": null,
   "BottomMessageOverride": null
-}
+}]
